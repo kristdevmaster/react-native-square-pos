@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNSquarePos"
-  s.version      = "1.0.13"
+  s.version      = "1.1.0"
   s.summary      = "RNSquarePos"
   s.description  = <<-DESC
                   RNSquarePos
